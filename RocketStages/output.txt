@@ -1,0 +1,36 @@
+number of stages is:  5
+nrStages prior:  5
+Line read:  4999 1 1000000 1
+Line read:  4999 1 1000000 1
+Line read:  999 1 1000000 1
+Line read:  4999 1 1000000 1
+Line read:  999 1 1000010 1
+
+nrStages after:  5
+Skipped nr of V3 calcs:  32995
+
+--- 0.010079145431518555 seconds ---
+
+Max Velocities
+0
+190
+280
+990
+1147
+1481
+
+ Corresponding Weights
+0
+5000
+10000
+1000
+6000
+2000
+Weight: 1000, weight space left: 2000
+Weight: 5000, weight space left: 1000
+Weight: 1000, weight space left: 1000
+Weight: 5000, weight space left: 0
+Picked stages (if weight is same for several stages it doesn't work (if not all are chosen)): 
+ [3, 5]
+Final velocity [m/s]  1481
+1481

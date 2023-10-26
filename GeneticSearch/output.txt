@@ -1,0 +1,266 @@
+Line read:  AGCT AGCTAGCT
+Case1:  2
+Case2:  4
+Unique substrings case2:  GCT ACT AGT AGC
+All substrings case2:  GCT ACT AGT AGC
+Case3:  1
+Case3:  1
+Case3:  1
+Case3:  1
+Case3:  2
+Unique substrings case3:  AAGCT CAGCT GAGCT TAGCT ACGCT AGGCT ATGCT AGACT AGCCT AGTCT AGCAT AGCGT AGCTT AGCTA AGCTC AGCTG
+All substrings case3:  AAGCT CAGCT GAGCT TAGCT AAGCT ACGCT AGGCT ATGCT AGACT AGCCT AGGCT AGTCT AGCAT AGCCT AGCGT AGCTT AGCTA AGCTC AGCTG AGCTT
+2 4 2
+Line read:  AAA AAAAAAAAAA
+Case1:  8
+Case2:  9
+Unique substrings case2:  AA
+All substrings case2:  AA AA AA
+Case3:  7
+Case3:  7
+Case3:  7
+Case3:  7
+Unique substrings case3:  AAAA CAAA GAAA TAAA ACAA AGAA ATAA AACA AAGA AATA AAAC AAAG AAAT
+All substrings case3:  AAAA CAAA GAAA TAAA AAAA ACAA AGAA ATAA AAAA AACA AAGA AATA AAAA AAAC AAAG AAAT
+8 9 7
+Line read:  AGC TTTTGT
+Case1:  0
+Case2:  0
+Unique substrings case2:  GC AC AG
+All substrings case2:  GC AC AG
+Case3:  0
+Case3:  0
+Case3:  0
+Case3:  0
+Unique substrings case3:  AAGC CAGC GAGC TAGC ACGC AGGC ATGC AGAC AGCC AGTC AGCA AGCG AGCT
+All substrings case3:  AAGC CAGC GAGC TAGC AAGC ACGC AGGC ATGC AGAC AGCC AGGC AGTC AGCA AGCC AGCG AGCT
+0 0 0
+Line read:  GGG TTT
+Case1:  0
+Case2:  0
+Unique substrings case2:  GG
+All substrings case2:  GG GG GG
+Case3:  0
+Case3:  0
+Case3:  0
+Case3:  0
+Unique substrings case3:  AGGG CGGG GGGG TGGG GAGG GCGG GTGG GGAG GGCG GGTG GGGA GGGC GGGT
+All substrings case3:  AGGG CGGG GGGG TGGG GAGG GCGG GGGG GTGG GGAG GGCG GGGG GGTG GGGA GGGC GGGG GGGT
+0 0 0
+Line read:  ACT GACT
+Case1:  1
+Case2:  2
+Unique substrings case2:  CT AT AC
+All substrings case2:  CT AT AC
+Case3:  1
+Case3:  1
+Case3:  1
+Case3:  1
+Unique substrings case3:  AACT CACT GACT TACT ACCT AGCT ATCT ACAT ACGT ACTT ACTA ACTC ACTG
+All substrings case3:  AACT CACT GACT TACT AACT ACCT AGCT ATCT ACAT ACCT ACGT ACTT ACTA ACTC ACTG ACTT
+1 2 1
+Line read:  GCT GCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTA
+Case1:  10
+Case2:  20
+Unique substrings case2:  CT GT GC
+All substrings case2:  CT GT GC
+Case3:  9
+Case3:  9
+Case3:  9
+Case3:  19
+Unique substrings case3:  AGCT CGCT GGCT TGCT GACT GCCT GTCT GCAT GCGT GCTT GCTA GCTC GCTG
+All substrings case3:  AGCT CGCT GGCT TGCT GACT GCCT GGCT GTCT GCAT GCCT GCGT GCTT GCTA GCTC GCTG GCTT
+10 20 19
+Line read:  AGC AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
+Case1:  10
+Case2:  20
+Unique substrings case2:  GC AC AG
+All substrings case2:  GC AC AG
+Case3:  9
+Case3:  9
+Case3:  9
+Case3:  19
+Unique substrings case3:  AAGC CAGC GAGC TAGC ACGC AGGC ATGC AGAC AGCC AGTC AGCA AGCG AGCT
+All substrings case3:  AAGC CAGC GAGC TAGC AAGC ACGC AGGC ATGC AGAC AGCC AGGC AGTC AGCA AGCC AGCG AGCT
+10 20 19
+Line read:  GGC AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
+Case1:  0
+Case2:  10
+Unique substrings case2:  GC GG
+All substrings case2:  GC GC GG
+Case3:  0
+Case3:  0
+Case3:  0
+Case3:  0
+Unique substrings case3:  AGGC CGGC GGGC TGGC GAGC GCGC GTGC GGAC GGCC GGTC GGCA GGCG GGCT
+All substrings case3:  AGGC CGGC GGGC TGGC GAGC GCGC GGGC GTGC GGAC GGCC GGGC GGTC GGCA GGCC GGCG GGCT
+0 10 0
+Line read:  CGC AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
+Case1:  0
+Case2:  10
+Unique substrings case2:  GC CC CG
+All substrings case2:  GC CC CG
+Case3:  0
+Case3:  0
+Case3:  0
+Case3:  0
+Unique substrings case3:  ACGC CCGC GCGC TCGC CAGC CGGC CTGC CGAC CGCC CGTC CGCA CGCG CGCT
+All substrings case3:  ACGC CCGC GCGC TCGC CAGC CCGC CGGC CTGC CGAC CGCC CGGC CGTC CGCA CGCC CGCG CGCT
+0 10 0
+Line read:  TGC AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
+Case1:  0
+Case2:  10
+Unique substrings case2:  GC TC TG
+All substrings case2:  GC TC TG
+Case3:  0
+Case3:  9
+Case3:  9
+Case3:  9
+Unique substrings case3:  ATGC CTGC GTGC TTGC TAGC TCGC TGGC TGAC TGCC TGTC TGCA TGCG TGCT
+All substrings case3:  ATGC CTGC GTGC TTGC TAGC TCGC TGGC TTGC TGAC TGCC TGGC TGTC TGCA TGCC TGCG TGCT
+0 10 9
+Line read:  AGT AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
+Case1:  0
+Case2:  10
+Unique substrings case2:  GT AT AG
+All substrings case2:  GT AT AG
+Case3:  0
+Case3:  0
+Case3:  10
+Case3:  10
+Unique substrings case3:  AAGT CAGT GAGT TAGT ACGT AGGT ATGT AGAT AGCT AGTT AGTA AGTC AGTG
+All substrings case3:  AAGT CAGT GAGT TAGT AAGT ACGT AGGT ATGT AGAT AGCT AGGT AGTT AGTA AGTC AGTG AGTT
+0 10 10
+Line read:  AG AGAGAG
+Case1:  3
+Case2:  6
+Unique substrings case2:  G A
+All substrings case2:  G A
+Case3:  2
+Case3:  2
+Case3:  4
+Unique substrings case3:  AAG CAG GAG TAG ACG AGG ATG AGA AGC AGT
+All substrings case3:  AAG CAG GAG TAG AAG ACG AGG ATG AGA AGC AGG AGT
+3 6 4
+Line read:  AGCT AGCTAGCT
+Case1:  2
+Case2:  4
+Unique substrings case2:  GCT ACT AGT AGC
+All substrings case2:  GCT ACT AGT AGC
+Case3:  1
+Case3:  1
+Case3:  1
+Case3:  1
+Case3:  2
+Unique substrings case3:  AAGCT CAGCT GAGCT TAGCT ACGCT AGGCT ATGCT AGACT AGCCT AGTCT AGCAT AGCGT AGCTT AGCTA AGCTC AGCTG
+All substrings case3:  AAGCT CAGCT GAGCT TAGCT AAGCT ACGCT AGGCT ATGCT AGACT AGCCT AGGCT AGTCT AGCAT AGCCT AGCGT AGCTT AGCTA AGCTC AGCTG AGCTT
+2 4 2
+Line read:  AAA AAAAAAAAAA
+Case1:  8
+Case2:  9
+Unique substrings case2:  AA
+All substrings case2:  AA AA AA
+Case3:  7
+Case3:  7
+Case3:  7
+Case3:  7
+Unique substrings case3:  AAAA CAAA GAAA TAAA ACAA AGAA ATAA AACA AAGA AATA AAAC AAAG AAAT
+All substrings case3:  AAAA CAAA GAAA TAAA AAAA ACAA AGAA ATAA AAAA AACA AAGA AATA AAAA AAAC AAAG AAAT
+8 9 7
+Line read:  AGC TTTTGT
+Case1:  0
+Case2:  0
+Unique substrings case2:  GC AC AG
+All substrings case2:  GC AC AG
+Case3:  0
+Case3:  0
+Case3:  0
+Case3:  0
+Unique substrings case3:  AAGC CAGC GAGC TAGC ACGC AGGC ATGC AGAC AGCC AGTC AGCA AGCG AGCT
+All substrings case3:  AAGC CAGC GAGC TAGC AAGC ACGC AGGC ATGC AGAC AGCC AGGC AGTC AGCA AGCC AGCG AGCT
+0 0 0
+Line read:  GCT GCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTA
+Case1:  10
+Case2:  20
+Unique substrings case2:  CT GT GC
+All substrings case2:  CT GT GC
+Case3:  9
+Case3:  9
+Case3:  9
+Case3:  19
+Unique substrings case3:  AGCT CGCT GGCT TGCT GACT GCCT GTCT GCAT GCGT GCTT GCTA GCTC GCTG
+All substrings case3:  AGCT CGCT GGCT TGCT GACT GCCT GGCT GTCT GCAT GCCT GCGT GCTT GCTA GCTC GCTG GCTT
+10 20 19
+Line read:  AGC AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
+Case1:  10
+Case2:  20
+Unique substrings case2:  GC AC AG
+All substrings case2:  GC AC AG
+Case3:  9
+Case3:  9
+Case3:  9
+Case3:  19
+Unique substrings case3:  AAGC CAGC GAGC TAGC ACGC AGGC ATGC AGAC AGCC AGTC AGCA AGCG AGCT
+All substrings case3:  AAGC CAGC GAGC TAGC AAGC ACGC AGGC ATGC AGAC AGCC AGGC AGTC AGCA AGCC AGCG AGCT
+10 20 19
+Line read:  GGC AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
+Case1:  0
+Case2:  10
+Unique substrings case2:  GC GG
+All substrings case2:  GC GC GG
+Case3:  0
+Case3:  0
+Case3:  0
+Case3:  0
+Unique substrings case3:  AGGC CGGC GGGC TGGC GAGC GCGC GTGC GGAC GGCC GGTC GGCA GGCG GGCT
+All substrings case3:  AGGC CGGC GGGC TGGC GAGC GCGC GGGC GTGC GGAC GGCC GGGC GGTC GGCA GGCC GGCG GGCT
+0 10 0
+Line read:  CGC AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
+Case1:  0
+Case2:  10
+Unique substrings case2:  GC CC CG
+All substrings case2:  GC CC CG
+Case3:  0
+Case3:  0
+Case3:  0
+Case3:  0
+Unique substrings case3:  ACGC CCGC GCGC TCGC CAGC CGGC CTGC CGAC CGCC CGTC CGCA CGCG CGCT
+All substrings case3:  ACGC CCGC GCGC TCGC CAGC CCGC CGGC CTGC CGAC CGCC CGGC CGTC CGCA CGCC CGCG CGCT
+0 10 0
+Line read:  TGC AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
+Case1:  0
+Case2:  10
+Unique substrings case2:  GC TC TG
+All substrings case2:  GC TC TG
+Case3:  0
+Case3:  9
+Case3:  9
+Case3:  9
+Unique substrings case3:  ATGC CTGC GTGC TTGC TAGC TCGC TGGC TGAC TGCC TGTC TGCA TGCG TGCT
+All substrings case3:  ATGC CTGC GTGC TTGC TAGC TCGC TGGC TTGC TGAC TGCC TGGC TGTC TGCA TGCC TGCG TGCT
+0 10 9
+Line read:  AGT AGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
+Case1:  0
+Case2:  10
+Unique substrings case2:  GT AT AG
+All substrings case2:  GT AT AG
+Case3:  0
+Case3:  0
+Case3:  10
+Case3:  10
+Unique substrings case3:  AAGT CAGT GAGT TAGT ACGT AGGT ATGT AGAT AGCT AGTT AGTA AGTC AGTG
+All substrings case3:  AAGT CAGT GAGT TAGT AAGT ACGT AGGT ATGT AGAT AGCT AGGT AGTT AGTA AGTC AGTG AGTT
+0 10 10
+Line read:  AG AGAGAG
+Case1:  3
+Case2:  6
+Unique substrings case2:  G A
+All substrings case2:  G A
+Case3:  2
+Case3:  2
+Case3:  4
+Unique substrings case3:  AAG CAG GAG TAG ACG AGG ATG AGA AGC AGT
+All substrings case3:  AAG CAG GAG TAG AAG ACG AGG ATG AGA AGC AGG AGT
+3 6 4
+Line read:  
+--- 0.005014896392822266 seconds ---
